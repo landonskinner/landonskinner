@@ -4,6 +4,7 @@
 <p align="center">
   Hello! I'm Landon, a full stack developer! My background is in JavaScript and Ruby and their frameworks, and I am eager to continue expanding my knowledge in the software engineering field.
 </p>
+<hr>
 <p align="center">
   <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="JavaScript">
   <img src='https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white' alt="Ruby">
