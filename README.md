@@ -1,7 +1,7 @@
 <img width="100%" alt="header" src="https://user-images.githubusercontent.com/89482763/154293106-6cd8eae6-49b5-4954-93c5-993035588ee5.png">
 
 <hr>
-<p>
+<p align="center">
   Hello! I'm Landon, a full stack developer! My background is in JavaScript and Ruby and their frameworks, and I am eager to continue expanding my knowledge in the software engineering field.
 </p>
 <p align="center">
