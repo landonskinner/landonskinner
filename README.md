@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
-  Hello! I'm Landon Skinner, a Front-end Software Engineer based in Denver, CO. I currently work for Gartner, building and supporting client-facing lead generation experiences.
+  Hello! I'm Landon Skinner, a Front-end Software Engineer based in Denver, CO.
 </p>
 <hr>
 <p align="center">
